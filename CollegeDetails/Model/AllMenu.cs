@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -109,6 +109,7 @@ namespace CollegeDetails.Model
 
                     students.Remove(student);
                     Console.WriteLine($"Student {student.StudentName} Removed Successfully");
+                    break;
                 }
 
             }
@@ -126,6 +127,7 @@ namespace CollegeDetails.Model
 
                     professors.Remove(professor);
                     Console.WriteLine($"Student {professor.ProfessorName} Removed Successfully");
+                    break;
                 }
 
             }
@@ -142,6 +144,7 @@ namespace CollegeDetails.Model
 
                     departments.Remove(department);
                     Console.WriteLine($"Student {department.DepartmentName} Removed Successfully");
+                    break;
                 }
 
             }
