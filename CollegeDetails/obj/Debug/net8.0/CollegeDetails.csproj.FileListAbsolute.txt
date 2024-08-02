@@ -1,0 +1,14 @@
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\bin\Debug\net8.0\CollegeDetails.exe
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\bin\Debug\net8.0\CollegeDetails.deps.json
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\bin\Debug\net8.0\CollegeDetails.runtimeconfig.json
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\bin\Debug\net8.0\CollegeDetails.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\bin\Debug\net8.0\CollegeDetails.pdb
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\CollegeDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\CollegeDetails.AssemblyInfoInputs.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\CollegeDetails.AssemblyInfo.cs
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\CollegeDetails.csproj.CoreCompileInputs.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\CollegeDetails.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\refint\CollegeDetails.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\CollegeDetails.pdb
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\CollegeDetails.genruntimeconfig.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\CollegeDetails\obj\Debug\net8.0\ref\CollegeDetails.dll
